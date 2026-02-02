@@ -25,7 +25,7 @@
 3-shot < 5-shot < 0-shot
 
 - CoT Prompting:
-3-shot에서 Direct Prompting 대비 정답률이 소폭 상승하였다.
+0-shot과 5-shot에서 Direct Prompting 대비 정답률이 소폭 상승하였다.
 
 - My Prompting:
 CoT와 Direct 대비 성능이 전반적으로 향상된 걸 확인할 수 있다.
